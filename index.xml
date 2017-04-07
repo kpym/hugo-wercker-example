@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Example Hugo site</title>
+    <link>https://kpym.github.io/hugo-wercker-example/index.xml</link>
+    <description>Recent content on Example Hugo site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://kpym.github.io/hugo-wercker-example/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>test</title>
+      <link>https://kpym.github.io/hugo-wercker-example/test/</link>
+      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kpym.github.io/hugo-wercker-example/test/</guid>
+      <description>&lt;p&gt;This is a test post !&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://kpym.github.io/hugo-wercker-example/about/</link>
+      <pubDate>Sun, 11 Jan 2015 13:42:38 +1100</pubDate>
+      
+      <guid>https://kpym.github.io/hugo-wercker-example/about/</guid>
+      <description>&lt;p&gt;This site is for illustration purposes only, in order to demonstrate using Wercker for automated deployments of Hugo.&lt;/p&gt;
+
+&lt;p&gt;Now updated to test that it works with Step version 1.15.2&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

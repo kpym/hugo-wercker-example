@@ -1,4 +1,4 @@
-baseurl = "http://kpym.github.io/hugo-wercker-example"
+baseurl = "https://kpym.github.io/hugo-wercker-example"
 languageCode = "en-us"
 title = "Example Hugo site"
 theme = "herring-cove"
